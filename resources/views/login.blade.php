@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Sign in to Sinvent</title>
+        <title>Sinvent</title>
 
         <!-- Fonts -->
         <link rel="preconnect" href="https://fonts.bunny.net">
@@ -57,7 +57,7 @@
             <div class="mb-2">
                 <label for="username">
                   Username
-                </label>
+                </label> 
                 <input id="username" name="email" type="text" class="form-control"/>
             </div>
             <div class="mb-2">
